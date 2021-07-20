@@ -7,7 +7,7 @@ In this challenge, I used Python to analyse financial data.
 ## PyBank
 
 ### Data
-* Financial data: [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`.
+* Financial data: [budget_data.csv](PyBank/Resources/03_PyBank_Resources_budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`.
 
 ### Analysis
 Analysed the financial data using Python scripts and calculated the following:
@@ -35,7 +35,7 @@ Greatest Decrease in Profits: Sep-2013 ($-2196167)
 ## PyPoll
 
 ### Data
-* Poll data: [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`.
+* Poll data: [election_data.csv](PyPoll/Resources/03_PyPoll_Resources_election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`.
 
 ### Analysis
 Analysed the poll data using Python scripts and calculated the following:
